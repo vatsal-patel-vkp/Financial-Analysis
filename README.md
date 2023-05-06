@@ -18,7 +18,8 @@ BlackRock is a large MNC that holds world's largest investment portfolio worth $
   
   ### Profitability Ratio
   ```
-  In this ratio we assess the ability of the company to generate profits relative to its Sales, Assets and/or Equity. This is one of the financial health indicator to measure its efficiency of making profits from its operations.
+  In this ratio we assess the ability of the company to generate profits relative to its Sales, Assets and/or Equity. 
+  This is one of the financial health indicator to measure its efficiency of making profits from its operations.
   
   There are generally 4 types of ratios to calculate the company's profitability.
     1. Return on Equity (ROE)
@@ -31,7 +32,9 @@ BlackRock is a large MNC that holds world's largest investment portfolio worth $
 
   ### Solvency Ratio
   ```
-  In this ratio we measure how much company is capable to meet it's long term obligations or debt. This ratio helps investors and lenders to determine whether the company is able to generate sufficient cash flow to pay-off their long term debt (generally more than 1 year). 
+  In this ratio we measure how much company is capable to meet it's long term obligations or debt. This ratio helps investors 
+  and lenders to determine whether the company is able to generate sufficient cash flow to pay-off their long term debt 
+  (generally more than 1 year). 
   
   There are generally 2 types of ratio's
     1. Debt-to-Equity Ratio
