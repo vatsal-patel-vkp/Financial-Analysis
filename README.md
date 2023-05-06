@@ -3,4 +3,8 @@ BlackRock is a large MNC that holds world's largest investment portfolio worth $
 
 ## Different Ratio Analysis
   #### Liquidity Ratio
+  ```
+  ![image](https://user-images.githubusercontent.com/107895872/236649124-9c8f9342-f09c-490a-83b5-bdcf6a7ae796.png)
+
+  ```
         
