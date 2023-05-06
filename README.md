@@ -15,7 +15,8 @@ BlackRock is a large MNC that holds world's largest investment portfolio worth $
   ```
   ![liquidity](https://user-images.githubusercontent.com/107895872/236649548-9ed09ee4-f66e-4706-b386-3b26547d246a.jpg)
   
-    ### Solvency Ratio
+  
+  ### Solvency Ratio
   ```
   In this ratio we measure how much company is capable to meet it's long term obligations or debt. This ratio helps investors 
   and lenders to determine whether the company is able to generate sufficient cash flow to pay-off their long term debt 
