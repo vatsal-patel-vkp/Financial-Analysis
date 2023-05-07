@@ -29,7 +29,7 @@ BlackRock is a large MNC that holds world's largest investment portfolio worth $
     1. Debt-to-Equity Ratio
     2. Solvency Ratio
   ```
-![Solvency](https://user-images.githubusercontent.com/107895872/236650591-7be67775-6771-441d-88c2-fafa2c8b6b99.jpg)
+![Solvency](https://user-images.githubusercontent.com/107895872/236651638-e50495bc-f368-4ffc-9916-c6e134b03a7b.jpg)
 
   
   
@@ -56,7 +56,7 @@ BlackRock is a large MNC that holds world's largest investment portfolio worth $
     1. Accounts Receivable Ratio
     2. Accounts Payable Ratio
   ```
-![Turnover](https://user-images.githubusercontent.com/107895872/236650599-02bf990d-d1e6-44f4-8a75-393a22bea057.jpg)
+![Turnover](https://user-images.githubusercontent.com/107895872/236651641-0e7857f7-cfd1-4d40-b2f8-a34a69b131d1.jpg)
 
 
 ### Earning Ratio
@@ -68,7 +68,7 @@ BlackRock is a large MNC that holds world's largest investment portfolio worth $
   various factors such as changes in the company's revenue, expenses, and outstanding shares. It is recommended to evaluate EPS in conjunction with other 
   financial metrics to gain a more comprehensive understanding of a company's financial performance.
   ```
-![Earning](https://user-images.githubusercontent.com/107895872/236650601-834e2f55-4fe4-4673-97ee-ef554c79ad86.jpg)
+![Earning](https://user-images.githubusercontent.com/107895872/236651647-eeec34b7-addf-43ca-8a06-97d753733590.jpg)
 
 
 ## WACC (Weighted Average Cost of Capital)
